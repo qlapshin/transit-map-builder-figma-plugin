@@ -18,3 +18,7 @@ The library includes lines, stations, transitions, transit icons, and color pale
 1. Go to the [plugin page](https://www.figma.com/community/plugin/1614763666124064003/transit-map-builder)
 2. Click **Open in…** and select your project
 3. Click **Run**
+
+##
+
+❤️ [Support this project](https://dalink.to/qlapshin)
